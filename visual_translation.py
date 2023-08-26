@@ -69,7 +69,7 @@ def select_area():
     # Create the GUI window
     window = tk.Tk()
     window.title("Image Translation")
-    window.geometry("600x1100")
+
 
     # Create a label to display the selected image
     image_label = tk.Label(window)
