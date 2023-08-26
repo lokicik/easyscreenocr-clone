@@ -1,6 +1,7 @@
 # easyscreenocr-clone
 Captures a part of the screen, reads the text from the captured image than translates and prints it to a target language. Currently from German to English, because I'm trying to learn German. You can easily change the from and to languages from the lines
 # Tutorial
+(Screenshots are from the game "King's Bounty: The Legend", one of my favourite games.)
 
 First, you've got to be in a screen where there is text to be screenshot of.
 ![first](https://github.com/lokicik/easyscreenocr-clone/assets/65876412/a7f3e4d1-f856-4bf9-a88e-9faa905206f4)
