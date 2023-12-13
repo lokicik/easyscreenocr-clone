@@ -1,5 +1,9 @@
 # easyscreenocr-clone
-Captures a part of the screen, reads the text from the captured image than translates and prints it to a target language. Currently from German to English, because I'm trying to learn German. You can easily change the "from" and "to" languages from the lines "60" and "98" in "visual_translation.py".
+This program captures a part of the screen, reads the text from the captured image than translates and prints it to a target language. Currently from German to English, because I'm trying to learn German. You can easily change the "from" and "to" languages from the lines "60" and "98" in "visual_translation.py".
+
+# The reason I developed this program is this:
+I was thinking about learning languages, about the languages I know, and suddenly I remembered how I learned English. Not at school, of course. I learned it by playing games and using Translate. Memorising all the unknown words, understanding the sentence structures and grammar rules by myself, etc. I thought I could recreate the learning process by playing the games with another language with a faster, automated learning process and here we are with this programme.
+
 # Tutorial
 (Screenshots are from the game "King's Bounty: The Legend", one of my favourite games.)
 
